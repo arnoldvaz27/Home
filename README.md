@@ -1,4 +1,4 @@
-# Arnold Vaz - Home
+# Home
 
 Welcome to the Home page of my Github web page 😊, Thank you for visiting 🙌 
 
