@@ -1,6 +1,11 @@
 # Home
 
-Welcome to the Home page of my Github web page 😊, Thank you for visiting 🙌 
+Welcome to the Home page of my Github web page 😊, Thank you for visiting 🙌
+
+***This Documentation comes under
+[License](https://arnoldvaz27.github.io) , Plese visit to no more***
+
+<br>
 
 **This page will help you in navigating the web documentations of my projects, libraries and more**
 
@@ -10,3 +15,5 @@ Welcome to the Home page of my Github web page 😊, Thank you for visiting 🙌
 
 - [Web Badges](https://arnoldvaz27.github.io) - Badges that can be used anywhere on the whole of internet web
 - [Simplify Android Library](https://arnoldvaz27.github.io/Simplify) - Library that condenses the developer work
+- [Android Note Taking Application](https://arnoldvaz27.github.io/Remarques)
+- [Android Notebook Application](https://arnoldvaz27.github.io/Notebook)
