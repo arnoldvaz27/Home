@@ -15,5 +15,6 @@ Welcome to the Home page of my Github web page 😊, Thank you for visiting 🙌
 
 - [Web Badges](https://arnoldvaz27.github.io) - Badges that can be used anywhere on the whole of internet web
 - [Simplify Android Library](https://arnoldvaz27.github.io/Simplify) - Library that condenses the developer work
-- [Android Note Taking Application](https://arnoldvaz27.github.io/Remarques)
-- [Android Notebook Application](https://arnoldvaz27.github.io/Notebook)
+- [Note Taking](https://arnoldvaz27.github.io/Remarques) *
+- [Weather Guide](https://arnoldvaz27.github.io/WeatherGuide) *
+- [Notebook](https://arnoldvaz27.github.io/Notebook) *
