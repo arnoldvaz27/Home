@@ -17,4 +17,6 @@ Welcome to the Home page of my Github web page 😊, Thank you for visiting 🙌
 - [Simplify Android Library](https://arnoldvaz27.github.io/Simplify) - Library that condenses the developer work
 - [Note Taking](https://arnoldvaz27.github.io/Remarques) *
 - [Weather Guide](https://arnoldvaz27.github.io/WeatherGuide) *
+- [Audial](https://arnoldvaz27.github.io/Audial) *
 - [Notebook](https://arnoldvaz27.github.io/Notebook) *
+- [World Organizations](https://arnoldvaz27.github.io/WorldOrganizations) *
