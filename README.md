@@ -3,7 +3,7 @@
 Welcome to the Home page of my Github web page 😊, Thank you for visiting 🙌
 
 ***This Documentation comes under
-[License](https://arnoldvaz27.github.io) , Plese visit to no more***
+[License](https://arnoldvaz27.github.io/License) , Plese visit to no more***
 
 <br>
 
