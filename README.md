@@ -2,7 +2,7 @@
 
 Welcome to the Home page of my Github web page 😊, Thank you for visiting 🙌
 
-***This Documentation comes under
+***This Home page and all the below Documentations comes under
 [License](https://arnoldvaz27.github.io/LICENSE) , Plese visit to no more***
 
 <br>
